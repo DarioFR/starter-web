@@ -1,4 +1,4 @@
-# humanstxt.org/  clashtest
+# humanstxt.org/  clashtest22222
 # The humans responsible & technology colophon
 
 # TEAM
@@ -9,6 +9,6 @@
 
     <name>
 
-# TECHNOLOGY COLOPHON test
+# TECHNOLOGY COLOPHON test22222222
     HTML5, CSS3
     jQuery, Modernizr
