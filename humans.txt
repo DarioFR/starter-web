@@ -9,7 +9,7 @@
 
     <name>
 
-# TECHNOLOGY COLOPHON test
+# TECHNOLOGY COLOPHON test CLASH!
 
     HTML5, CSS3
     jQuery, Modernizr
