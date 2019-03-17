@@ -1,4 +1,4 @@
-# humanstxt.org/  clashmaster
+# humanstxt.org/  clashtest
 # The humans responsible & technology colophon
 
 # TEAM
@@ -9,7 +9,6 @@
 
     <name>
 
-# TECHNOLOGY COLOPHON test CLASH!master
-
+# TECHNOLOGY COLOPHON test
     HTML5, CSS3
     jQuery, Modernizr
