@@ -1,4 +1,4 @@
-# humanstxt.org/  tic
+# humanstxt.org/  tac
 # The humans responsible & technology colophon
 
 # TEAM
@@ -9,6 +9,6 @@
 
     <name>
 
-# TECHNOLOGY COLOPHON tic
+# TECHNOLOGY COLOPHON tac
     HTML5, CSS3
     jQuery, Modernizr
